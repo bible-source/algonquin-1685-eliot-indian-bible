@@ -1,0 +1,1 @@
+positionForPages[1211]={"page":1211,"positions":[{"word":"P6\u00a3l(l","left":0.735573,"top":0.037791,"width":0.087347,"height":0.014311},{"word":"-","left":0.655795,"top":0.154739,"width":0.006846,"height":0.000720},{"word":"*","left":0.513740,"top":0.458808,"width":0.005891,"height":0.004201}]};
